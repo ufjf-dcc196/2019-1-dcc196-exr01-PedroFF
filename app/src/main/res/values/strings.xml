@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio01</string>
+    <string name="button_nome">Nome Completo</string>
+    <string name="nome_usuario">Digite seu primeiro nome</string>
+    <string name="sobrenome_usuario">Digite seu sobrenome</string>
+    <string name="nome_completo"> Seu nome aparecerá aqui!</string>
+</resources>
